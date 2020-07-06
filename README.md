@@ -5,7 +5,7 @@ Tutaj dowiesz się jak programować w [Scratch](https://scratch.mit.edu/)
 Opcje
 -----------------------------------
 
-Kursy
+[Kursy](kursy.md)
 
 O autorze
 
