@@ -1,7 +1,7 @@
 ## Kursy
 -------------------
 
-1. [Podstawy]()
+1. [Podstawy](podstawy.md)
 
 2. [Programowanie]()
 
