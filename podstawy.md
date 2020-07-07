@@ -11,14 +11,17 @@
 
 **Duszki** to postacie, które pojawjają się na "platformie", czyli na białym tle w prawym-górnym rogu. Zawsze gdy tworzymy nowy projekt mamy na tle jednego duszka... czyli Scratcha! To jest postać, która zawsze mósi pojawić się na tle, ale co jeszli nie spodoba Ci się główna postać? To możesz zmienić ją na inną, wystarczy, że klikniesz mały guziczek w, którym będzie mała twarzyczka białego kota. Kiedy najedziesz na ikonę myszką, rozwinie Ci się dużo opcji... ale nie klikaj narazie żadnych z nich. Omówimy je później. Kliknij narazie tego kotka. Po kliknięciu ikony, masz do dyspozycji tyle postaci, że asz trudno wybrać, którą... co nie? Proponował bym wybrać duszka **_Cat Flying_**, nie różni on się za bardzo od **_Cat_**, ale później zobaczysz do czego ten duszek będzie nam potrzebny.
 
+To może teraz zajmiemy się czymś innym, mówiąc innym mam na myśli opcję **_Maluj_**, jeśli nie podobają Ci się żadne duszki z pakietu, to możesz je namalować! Musisz jedynie najechać na ikonę kota i kliknąć podaną wyżej opcję. Lecz my nie będziemy malować duszka... my narazie mamy go gotowego.
+
+Lecimy dalej następna opcja, nie wiesz jaką postać wybrać z pakietu? Jest na to rada! Poprostu najedź na ikonę kota i kliknij przycisk **_Niespodzianka_**, po naciśnięciu jego na tle pojawi Ci się losowy duszek! Teraz nie mósisz już wybierać.
+
 [Wybierz duszka](...)
 
-### 3. Kostium i dźwięk
+### 3. Kostium, dźwięk i tło
 
 
 
 
-[Wybór kostiumów i dźwięku](...)
+[Wybór kostiumów, dźwięku i tła](...)
 
-### 4. Tło
 ----------------------
