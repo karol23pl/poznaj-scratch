@@ -15,6 +15,10 @@ To może teraz zajmiemy się czymś innym, mówiąc innym mam na myśli opcję *
 
 Lecimy dalej następna opcja, nie wiesz jaką postać wybrać z pakietu? Jest na to rada! Poprostu najedź na ikonę kota i kliknij przycisk **_Niespodzianka_**, po naciśnięciu jego na tle pojawi Ci się losowy duszek! Teraz nie mósisz już wybierać.
 
+No i ostatnia opcja, masz może tak, że nie podobają Ci się żadne duszki? A jak próbujesz namalować jakiegoś to Ci niewychodzi? A chciałbyś może dodać swoją własną postać, którą zrobiłeś? Teraz już możesz! Wystarczy, że najedziesz znowu na ikonę kota i klikniesz **_Wczytaj duszka_**, ta opcja pozwala wczytać Twoją postać z komputera.
+
+Jest jeszcze jedna opcja która dotyczy dolnego "panelu duszka" jest tam dużo opcji np. **_Rozmiar_**, **_Nazwa_**, **_Położenie_** itd. Narazie nie dotykaj żadnej opcji, po za tą: **_Nazwa_**. Dzięki tej opcji, możesz nazwać duszka, żeby rozpoznać go np. w przypadku posiadaniu dwóch takich samych duszków o tej samej nazwie.
+
 [Wybierz duszka](...)
 
 ### 3. Kostium, dźwięk i tło
