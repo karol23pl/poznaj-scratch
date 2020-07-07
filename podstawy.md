@@ -17,7 +17,7 @@ Lecimy dalej następna opcja, nie wiesz jaką postać wybrać z pakietu? Jest na
 
 No i ostatnia opcja, masz może tak, że nie podobają Ci się żadne duszki? A jak próbujesz namalować jakiegoś to Ci niewychodzi? A chciałbyś może dodać swoją własną postać, którą zrobiłeś? Teraz już możesz! Wystarczy, że najedziesz znowu na ikonę kota i klikniesz **_Wczytaj duszka_**, ta opcja pozwala wczytać Twoją postać z komputera.
 
-Jest jeszcze jedna opcja która dotyczy dolnego "panelu duszka" jest tam dużo opcji np. **_Rozmiar_**, **_Nazwa_**, **_Położenie_** itd. Narazie nie dotykaj żadnej opcji, po za tą: **_Nazwa_**. Dzięki tej opcji, możesz nazwać duszka, żeby rozpoznać go np. w przypadku posiadaniu dwóch takich samych duszków o tej samej nazwie.
+Jest jeszcze jedna opcja która dotyczy dolnego "panelu duszka" jest tam dużo opcji np. **_Rozmiar_**, **_Nazwa_**, **_Położenie_** itd. Narazie nie dotykaj żadnej opcji, po za tą: **_Nazwa_**. Dzięki tej opcji, możesz nazwać duszka, żeby rozpoznać go np. w przypadku posiadaniu dwóch takich samych duszków o tej samej nazwie. Początkowo duszek powinien być nazwany **_Duszek 1_**, którą nazwę możesz edytować.
 
 [Wybierz duszka](...)
 
