@@ -23,7 +23,7 @@ Jest jeszcze jedna opcja która dotyczy dolnego "panelu duszka" jest tam dużo o
 
 ### 3. Kostium, dźwięk i tło
 
-
+**_Kostium_**, to całkiem przydatna rzecz, nie mówię tylko o wyglądzie, ale też o skryptach. To teraz przechodzimy do ciekawszej wersji, czyli będziemy naszemu "bohaterowi" dorysowywać pelerynę, z którą później będzie latać! Pewnie zastanawia cie to drugie okienko po lewej stronie, na której jest drugi kot, mam rację? To jest tylko drugi kostium, który też się nam przyda.
 
 
 [Wybór kostiumów, dźwięku i tła](...)
