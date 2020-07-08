@@ -8,7 +8,7 @@
 
 ### 2. Duszki
 
-**Duszki** to postacie, które pojawjają się na "platformie", czyli na białym tle w prawym-górnym rogu (bliżej środka). Zawsze gdy tworzymy nowy projekt mamy na tle jednego duszka... czyli Scratcha! To jest postać, która zawsze mósi pojawić się na tle, ale co jeszli nie spodoba Ci się główna postać? To możesz zmienić ją na inną, wystarczy, że klikniesz mały guziczek w, którym będzie mała twarzyczka białego kota. Kiedy najedziesz na ikonę myszką, rozwinie Ci się dużo opcji... ale nie klikaj narazie żadnych z nich. Omówimy je później. Kliknij narazie tego kotka. Po kliknięciu ikony, masz do dyspozycji tyle postaci, że asz trudno wybrać, którą... co nie? Proponował bym wybrać duszka **_Cat Flying_**, nie różni on się za bardzo od **_Cat_**, ale później zobaczysz do czego ten duszek będzie nam potrzebny.
+**Duszki** to postacie, które pojawjają się na "platformie", czyli na białym tle w prawym-górnym rogu (bliżej środka). Zawsze gdy tworzymy nowy projekt mamy na tle jednego duszka... czyli Scratcha! To jest postać, która zawsze mósi pojawić się na tle, ale co jeszli nie spodoba Ci się główna postać? To możesz zmienić ją na inną, wystarczy, że klikniesz mały guziczek w, którym będzie mała twarzyczka białego kota. Kiedy najedziesz na ikonę myszką, rozwinie Ci się dużo opcji... ale nie klikaj narazie żadnych z nich. Omówimy je później. Kliknij narazie tę ikonę białego kotka. Po kliknięciu ikony, masz do dyspozycji tyle postaci, że asz trudno wybrać, którą... co nie? Proponował bym wybrać duszka **_Cat Flying_**, nie różni on się za bardzo od **_Cat_**, ale później zobaczysz do czego ten duszek będzie nam potrzebny.
 
 Jest też coś takiego jak "panel duszka", a ma on opcje tj. **_Rozmiar_**, **_Nazwa_**, **_Położenie_** itd. Narazie nie dotykaj żadnej opcji, po za tą: **_Nazwa_**. Dzięki tej opcji, możesz nazwać duszka, żeby rozpoznać go np. w przypadku posiadaniu dwóch takich samych duszków o tej samej nazwie. Początkowo duszek powinien być nazwany **_Duszek 1_**, którą nazwę możesz edytować.
 
@@ -24,9 +24,9 @@ Lecimy dalej następna opcja, nie wiesz jaką postać wybrać z pakietu? Jest na
 
 No i ostatnia opcja, masz może tak, że nie podobają Ci się żadne duszki? A jak próbujesz namalować jakiegoś to Ci niewychodzi? A chciałbyś może dodać swoją własną postać, którą zrobiłeś? Teraz już możesz! Wystarczy, że najedziesz znowu na ikonę kota i klikniesz **_Wczytaj duszka_**, ta opcja pozwala wczytać Twoją postać z komputera.
 
+No i to tle, jeżeli chodzi o kostiumy. Teraz pokarzę Ci nową opcję.
 
-Chyba możemy iść dalej, czyli **_dźwięk_** nie jest on najważniejszy...
-
+A nowa opcja to, **_dźwięk_** nie jest on najważniejszy w programowaniu... czasem przydatny, ale jak mówiłem nie najważniejszy. Jeśli chcesz programować gry dźwięk, (czyli muzyka) może Ci się przydać... więc warto przerobić ten temat. Na początek zacznijmy od tego gdzie on jest, znajduje sie on w podobnym miejscu co **_Kostium_**, tylko nieco w lewo. Jak widzisz, masz tam dużo opcji, jak klikniesz ikonę białego mikrofonu, to pojawja Ci się olbrzymia ilość dźwięków i utworów, ale my wybieramy (klikając ikonę głośnika) na początek **_Dance Chill Out_**, tak wiem na początku będziesz miał (zakładając, że wybrałeś postać Cat Flying) utwór **_Pop_** (lub inny), ale my go usuwamy... oczywiście jeśli chcesz to możesz wybrać inny utwór. Po kliknięciu na wybrany utwór, pojawja Ci się lewej stronie "sieć dźwiękowa", a pod nią masa opcji, np. **_Play_**, **_Szybciej_**, **_Wolniej_**, **_Głośniej_**, **_Zmiękczenie_**, **_Wycisz_**, **_Wycisz początek_**, **_Wycisz koniec_**, **_Odwróć_**, **_Robotyczny głos_** c.d.n.
 
 [Wybór kostiumów, dźwięku i tła](...)
 
